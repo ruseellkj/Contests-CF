@@ -2,6 +2,8 @@
 using namespace std;
 #define ll long long
 
+// basic maths thats it 
+// practice more qs in order to get the ans ok!
 int main(){
     ll n, w, m;
     int count =0;
